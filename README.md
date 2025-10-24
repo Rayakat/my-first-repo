@@ -1,9 +1,9 @@
-# My First Repo
+# Repository #1
 
-Short description: what this project is.
+A small 2D game made with Godot
 
 ## How to run / install
-Explain how to use it.
+Just download it
 
 ## License
-Add license info if needed.
+No license
